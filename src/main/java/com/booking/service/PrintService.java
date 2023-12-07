@@ -162,5 +162,4 @@ public class PrintService {
                                                 .mapToDouble(Service::getPrice))
                                 .sum();
         }
-
 }
